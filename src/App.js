@@ -7,7 +7,11 @@ function App() {
     <div>
       <Header/>
       <Produtos/>
-      <Avaliativo/>
+      <Produtos/>
+      <Produtos/>
+      <Produtos/>
+      <Produtos/>
+      <Produtos/>
     </div>
   );
 }
