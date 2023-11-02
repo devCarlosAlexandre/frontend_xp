@@ -7,11 +7,6 @@ function App() {
     <div>
       <Header/>
       <Produtos/>
-      <Produtos/>
-      <Produtos/>
-      <Produtos/>
-      <Produtos/>
-      <Produtos/>
     </div>
   );
 }
