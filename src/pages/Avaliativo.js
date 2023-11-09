@@ -10,7 +10,7 @@ export function Avaliativo() {
             <p className="p_nome">Nome</p>
           </div>
           <div className="informativo">
-            <p className="p_informativo">Informativo</p>
+            <p className="p_informativo">Informativoo</p>
           </div>
           <div className="descricaoAv">
             <p className="p_descricaoAv">Descrição</p>
