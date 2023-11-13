@@ -1,13 +1,15 @@
-import { Avaliativo } from './pages/Avaliativo';
-import {Header} from './pages/Header'
-import { Produtos } from './pages/Produtos';
+import { ChakraProvider, Flex } from '@chakra-ui/react';
+import { Home } from './pages/Home';
 
 function App() {
   return (
-    <div>
-      <Header/>
-      <Produtos/>
-    </div>
+    <Flex
+      direction={"column"}
+      align={"center"}
+      maxW={"100%"}
+    >
+      <Home />
+    </Flex>
   );
 }
 
